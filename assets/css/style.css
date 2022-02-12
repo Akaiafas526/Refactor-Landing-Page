@@ -1,14 +1,16 @@
-/* Applies to whole page. */
+/* Applies format to whole page. */
 
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/*  */
+
 body {
     background-color: #d9dcd6;
 }
+
+/* Heading and styling */
 
 .header {
     padding: 20px;
@@ -17,14 +19,23 @@ body {
     color: #ffffff;
 }
 
+/* heading display format */
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* heading with seo tag, different color */
+
 .header h1 .seo {
-    color: #d9dcd6;
+    color: red;
 }
+
+/* Links in header */
+/* changed div to nav */
+
+/* navigation bar format in header */
 
 .header nav {
     padding-top: 15px;
@@ -38,18 +49,17 @@ body {
     list-style-type: none;
 }
 
+/* List format in navigation bar */
+
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* text format for  */
 a {
-    color: black;
+    color: white;
     text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
@@ -61,6 +71,15 @@ p {
     background-position: center;
 }
 
+
+/* Main Body Of Page */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .main-format {
     margin-bottom: 20px;
     padding: 50px;
@@ -70,9 +89,13 @@ p {
     color: #ffffff;
 }
 
+/* Image height format in main */
+
 .main-format img {
     max-height: 200px;
 }
+
+/* heading 2 margin and font size */
 
 .main-format h2 {
     margin-bottom: 20px;
@@ -89,11 +112,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+/* Paragraph tag font size */
+
+p {
+    font-size: 16px;
 }
+
+/* Sidebar Format */
 
 .benefits {
     margin-right: 20px;
@@ -106,15 +131,21 @@ p {
     background-color: #2589bd;
 }
 
+/* Sidebar text color and margin */
+
 .sidebar-format {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Sidebar heading 3 styling */
+
 .sidebar-format h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* sidebar image format */
 
 .sidebar-format img {
     display: block;
@@ -122,7 +153,7 @@ p {
     max-width: 150px;
 }
 
-/* Footer */
+/* Footer formatting */
 
 .footer {
     padding: 30px;
@@ -130,6 +161,8 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
+/* styling for heading 2 of footer  */
 
 .footer h2 {
     font-size: 20px;
