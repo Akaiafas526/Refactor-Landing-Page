@@ -2,6 +2,8 @@
 
 https://github.com/Akaiafas526/Refactor-Landing-Page
 
+https://akaiafas526.github.io/Refactor-Landing-Page/
+
 Steps Taken:
 
 - All links for in navigation bar work accordingly, Search Engine Optimzation was missing id tag.
