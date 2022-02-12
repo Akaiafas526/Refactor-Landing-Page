@@ -12,7 +12,13 @@ Steps Taken:
 
 - CSS and HTML comments were added.
 
-- HTML divs were removed to use section for more common 
+- HTML divs were removed to use section for more common tag.
+
+- All images and icon received alt tags.
+
+- Updated title from "website" to "Horiseon Website".
+
+- Functionality of webpage is as requested.
 
 ![Screenshot of webpage top](/assets/images/screen-shot-1.png)
 ![Screentshot of webpage middle](/assets/images/screen-shot-2.png)
