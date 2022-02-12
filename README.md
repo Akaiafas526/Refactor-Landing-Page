@@ -22,6 +22,6 @@ Steps Taken:
 
 - Functionality of webpage is as requested.
 
-![Screenshot of webpage top](/assets/images/screen-shot-1.png)
-![Screentshot of webpage middle](/assets/images/screen-shot-2.png)
-![Screenshot of webpage lower](/assets/images/screen-shot-3.png)
+![Screenshot of webpage top](./assets/images/screen-shot-1.png)
+![Screentshot of webpage middle](./assets/images/screen-shot-2.png)
+![Screenshot of webpage lower](./assets/images/screen-shot-3.png)
